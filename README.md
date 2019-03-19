@@ -1,5 +1,11 @@
 # InvoiceSystem
-This is the college project for Invoice Management System
+This is the college project for Invoice Management System <br/>
+<p> Steps to run project<br/>
+    check if composer is installed in command prompt type:<br/>
+				Composer<br/>
+    To create new project in laravel type in command prompt in the folder in which local host is installed:<br/>
+	composer create-project --prefer-dist laravel/laravel project name<br/>
+
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
